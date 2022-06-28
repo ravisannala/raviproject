@@ -1,0 +1,68 @@
+.socbox{
+    height: 480px;
+width: 270px;
+
+border-radius: 0px;
+background-color: #ffff;
+box-shadow: 3px 3px 9px 9px gray;
+}
+
+.socimg{
+    width: 285px;
+    height: 250px;
+    position: relative;
+    right: 12px;
+}
+.socbutton{
+    background-color: #61A2C8;
+    color: azure;
+    border-radius: 25px;
+    border: none;
+    position : relative;
+    left: 40px;
+    bottom: 15px;
+    width: 220px;
+
+}
+.soctext{
+    color: black;
+    font-weight: 600;
+}
+
+.ravidob{
+    color:#9A9A9B;
+
+}
+
+.qatarpapa{
+    color: rgb(10, 96, 130);
+
+}
+
+.uppalbalu{
+    width: 300px;
+}
+
+.ravikittu{
+    border-radius: 50px;
+}
+
+.ravikodi{
+    background-color: #61A2C8;
+    color: azure;
+    border: none;
+    border-radius: 25px;
+    width: 150px;
+    font-size: 10px;
+}
+.qatravi{
+    font-weight: 600;
+    display: flex;
+   justify-content: center;
+   font-weight: 600;
+   color: #4F516B;
+}
+
+
+
+   
